@@ -1,3 +1,5 @@
 Este es mi primer proyecto con Git.
-Acabo de crear mi primer repositorio y hacer mi primer commit.
-Ahora modifico el archivo con el fin de hacer el SEGUNDO commit.
+
+Justo acabo de terminar el segundo commit.
+
+Ahora modifico el archivo con el fin de hacer el TERCER commit.
