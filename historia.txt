@@ -1,5 +1,5 @@
 Este es mi primer proyecto con Git.
 
-Justo acabo de terminar el segundo commit.
+xD.
 
-Ahora modifico el archivo con el fin de hacer el TERCER commit.
+Me encuentro en el CUARTO commit después de haber hecho el reset.
