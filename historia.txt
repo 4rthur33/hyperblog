@@ -2,4 +2,6 @@ Este es mi primer proyecto con Git.
 
 xD.
 
-Me encuentro en el CUARTO commit después de haber hecho el reset.
+Me encuentro en el QUINTO commit después de haber hecho el reset.
+
+Recordar que estoy creando de nuevo el archivo por una falla que obtuve con el checkout con el mensaje HEAD DEATACHED from master.
